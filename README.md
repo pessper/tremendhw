@@ -1,0 +1,1 @@
+This is the repo used for solving the Tremend tasks that were given. Each file that contains code should have comments to explain the making and the use of the code. Also it includes a separate README file in each and every folder.
