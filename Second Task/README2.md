@@ -1,11 +1,5 @@
 https://hub.docker.com/repository/docker/pessper/tremend/general
 
-# Containerizing a Python Application with Docker and Automating Build Process
-
-This repository demonstrates how to containerize a Python application using Docker and automate the build and push processes using GitHub Actions.
-
-## Overview
-
 In this project, we containerize a simple Python application (`app.py`) with Docker and automate the build and push processes using GitHub Actions. The steps involved include:
 
 1. Choosing the Python application (`app.py`) to containerize.
