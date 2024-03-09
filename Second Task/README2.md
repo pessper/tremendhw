@@ -1,17 +1,5 @@
 https://hub.docker.com/repository/docker/pessper/tremend/general
 
-In this project, we containerize a simple Python application (`app.py`) with Docker and automate the build and push processes using GitHub Actions. The steps involved include:
-
-1. Choosing the Python application (`app.py`) to containerize.
-2. Creating a Dockerfile to define the environment and dependencies for the application.
-3. Testing the Dockerized application locally to ensure it functions correctly within the container.
-4. Setting up a Docker registry (e.g., Docker Hub) and creating a repository.
-5. Automating the build and push processes using GitHub Actions:
-   - Triggering the build whenever changes are pushed to the main/master branch.
-   - Building the Docker image using the Dockerfile.
-   - Tagging the Docker image with a version or commit hash and the latest tag.
-   - Pushing the Docker image to the Docker registry.
-
 ## Steps Taken
 
 1. Choosing the Python Application: The `app.py` file was selected as the Python application to containerize.
