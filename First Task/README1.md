@@ -1,17 +1,3 @@
-## Features
-
-- Prints the home directory of the current user.
-- Lists all usernames from the passwd file.
-- Counts the number of users on the system.
-- Finds the home directory of a specific user.
-- Lists users within a specific UID range.
-- Finds users with standard shells (/bin/bash or /bin/sh).
-- Replaces the '/' character with '\' in the entire /etc/passwd file and redirects the content to a new file.
-- Prints the private IP address of the system.
-- Prints the public IP address of the system.
-- Switches to the 'john' user.
-- Prints the home directory of the current user.
-
 ## How It Works
 
 ### Error Handling
